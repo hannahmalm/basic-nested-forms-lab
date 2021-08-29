@@ -1,0 +1,5 @@
+Recipe - has many ingredients, title:string
+Ingredient - belongs to a recipe, ingredient.name :string
+ingredient.quantity ;string 
+
+- build recipe that accepts 2 ingredietns
